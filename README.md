@@ -33,7 +33,8 @@ Your users should be able to:
 
 - Making the blue line to stay was a struggle, but I researched online on how to fix it, and the solution was to set the parent div to position: relative, and the blue line position to absolute.
 - This was my first intermediate challenge.
+- Plus you can use very long urls and it wont overflow thanks to these: white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 
 ## Live site URL:
 
-- 
+- https://dlxzeus777.github.io/URL-shortening-API-landing-page/
