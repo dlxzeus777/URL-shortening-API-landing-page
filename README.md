@@ -32,6 +32,7 @@ Your users should be able to:
 ## What I learned:
 
 - Making the blue line to stay was a struggle, but I researched online on how to fix it, and the solution was to set the parent div to position: relative, and the blue line position to absolute.
+- This was my first intermediate challenge.
 
 ## Live site URL:
 
